@@ -8,5 +8,5 @@ The logistic regression model provides a probabilistic estimate of the risk of h
 Conclusion :-
 This project demonstrates the application of logistic regression in predicting heart disease risk, highlighting the importance of early detection and intervention in reducing cardiovascular complications.
 
-# here is another file also which predict the handwrriten digits using datasets library in the python
+# Project-2 (Handwritten digits using logistic regression)
 We has to simply import the library datasets from the sklearn and use it for predictions of the result.

@@ -5,5 +5,8 @@ The dataset includes over 1191 records and 12 attributes covering age , cholestr
 Results
 The logistic regression model provides a probabilistic estimate of the risk of heart disease, helping in early diagnosis and preventive healthcare measures.
 
-Conclusion
+Conclusion :-
 This project demonstrates the application of logistic regression in predicting heart disease risk, highlighting the importance of early detection and intervention in reducing cardiovascular complications.
+
+# here is another file also which predict the handwrriten digits using datasets library in the python
+We has to simply import the library datasets from the sklearn and use it for predictions of the result.
